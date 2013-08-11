@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Christo De Lange"]
   spec.email         = ["github@dldinternet.com"]
   spec.description   = %q{Update dyndns.org host ip address when necessary}
-  spec.summary       = %q{Simple dyndns.org host ip updated driven by a YAML configuration file so that it can be used for multiple hosts}
+  spec.summary       = %q{Simple dyndns.org host ip updater driven by a YAML configuration file so that it can be used for multiple hosts}
   spec.homepage      = ""
   spec.license       = "MIT"
 

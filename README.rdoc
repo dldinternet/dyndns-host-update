@@ -1,6 +1,6 @@
 = dyndns-host-update
 
-Simple dyndns.org host ip updated driven by a YAML configuration file so that it can be used for multiple hosts
+Simple dyndns.org host ip updater driven by a YAML configuration file so that it can be used for multiple hosts
 
 == Contributing to dyndns-host-update
  
